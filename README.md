@@ -28,7 +28,7 @@
  • **you can join our discord server and ask about project**
 
 - 📫 How to reach me
- • **resync-dev@gmail.com**
+ • **resync0dev@gmail.com**
 
 - 📄 Known bugs
  • none
